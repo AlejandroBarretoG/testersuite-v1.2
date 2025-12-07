@@ -1,0 +1,7 @@
+{
+  "name": "TesterSuite v1.2",
+  "description": "# 🛠️ TesterSuite v1: Consola de Desarrollo y Diagnóstico\n\n**TesterSuite** es una aplicación modular construida con React y TypeScript diseñada para acelerar la integración y diagnóstico de servicios Cloud (Firebase) e Inteligencia Artificial (Google Gemini).\n\nFunciona como un 'laboratorio' donde cada funcionalidad (Auth, Database, AI, Audio) está aislada para pruebas rápidas antes de integrarse en producción.\n\n## Características Principales\n\n- **Gemini AI:** Prompt Architect, Multimodal Testing, SynthLab, VoiceLab.\n- **Firebase:** Auth Lab (Anónimo -> Permanente), Firestore Admin, Diagnostics.\n- **Labs Experimentales:** Storage Drag & Drop, Google Sheets Viewer, JSON Admin Engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
